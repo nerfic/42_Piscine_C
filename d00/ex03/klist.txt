@@ -1,0 +1,7 @@
+Credentials cache: API:8DA9C122-96EE-443E-B80A-E73DF32EF8A0
+        Principal: bjaudall@42.FR
+
+  Issued                Expires               Principal
+Jul  3 11:46:39 2017  Jul 10 11:46:39 2017  krbtgt/42.FR@42.FR
+Jul  3 11:46:40 2017  Jul 10 11:46:39 2017  ldap/ldap-proxy.42.fr@42.FR
+Jul  3 11:46:40 2017  Jul 10 11:46:39 2017  HTTP/home-piscine.42.fr@42.FR
